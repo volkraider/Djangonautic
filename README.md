@@ -1,0 +1,2 @@
+# Djangonautic
+Test blog project
